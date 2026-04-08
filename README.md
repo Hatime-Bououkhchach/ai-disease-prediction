@@ -1,7 +1,7 @@
 # 🧬 AI Early Disease Prediction System
 
 **Système intelligent de prédiction précoce de maladies**  
-**Projet de Fin d'Études (PFE) 2026**
+**Projet Softskills 2026 **
 
 ---
 
